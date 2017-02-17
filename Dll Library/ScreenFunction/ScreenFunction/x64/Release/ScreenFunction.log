@@ -1,0 +1,14 @@
+﻿  ScreenFunction.cpp
+ScreenFunction.cpp(102): warning C4018: “>”: 有符号/无符号不匹配
+ScreenFunction.cpp(147): warning C4018: “>”: 有符号/无符号不匹配
+ScreenFunction.obj : warning LNK4197: 多次指定导出“GetWindowPixel”；使用第一个规范
+ScreenFunction.obj : warning LNK4197: 多次指定导出“GetWindowMultiPixel”；使用第一个规范
+ScreenFunction.obj : warning LNK4197: 多次指定导出“GetWindowImg”；使用第一个规范
+    正在创建库 E:\c\ScreenFunction\x64\Release\ScreenFunction.lib 和对象 E:\c\ScreenFunction\x64\Release\ScreenFunction.exp
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ScreenFunction.vcxproj -> E:\c\ScreenFunction\x64\Release\ScreenFunction.dll
+  ScreenFunction.vcxproj -> E:\c\ScreenFunction\x64\Release\ScreenFunction.pdb (Full PDB)
